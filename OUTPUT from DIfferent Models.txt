@@ -1,0 +1,20 @@
+Model Outputs:
+
+
+
+Decision Tree:
+
+    Mean: 5.40672778982749
+    Standrad_deviation: 1.327555325887593
+
+
+linear Regrassion:
+
+    Mean: 6.680459559065733
+    Standrad_deviation: 1.6227697600705984
+
+
+RandomForestRegeressor:
+
+    Mean: 4.0756729872979145
+    Standrad_deviation: 1.397065834059177
